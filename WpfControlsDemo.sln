@@ -4,12 +4,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gruppe 1", "Gruppe 1", "{76CE1878-A951-4487-AAEA-104C7188E2E8}"
+	ProjectSection(SolutionItems) = preProject
+		Gruppe 1\ControlsDemo.md = Gruppe 1\ControlsDemo.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gruppe 2", "Gruppe 2", "{272609DF-F0B2-470F-BEF9-D6715721E7F1}"
+	ProjectSection(SolutionItems) = preProject
+		Gruppe 2\ControlsDemo.md = Gruppe 2\ControlsDemo.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gruppe 3", "Gruppe 3", "{39FEABF9-5687-4D64-9E43-878976D98522}"
+	ProjectSection(SolutionItems) = preProject
+		Gruppe 3\ControlsDemo.md = Gruppe 3\ControlsDemo.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gruppe 4", "Gruppe 4", "{15639E9A-BB39-4814-BE53-9887D1F849C5}"
+	ProjectSection(SolutionItems) = preProject
+		Gruppe 4\ControlsDemo.md = Gruppe 4\ControlsDemo.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
